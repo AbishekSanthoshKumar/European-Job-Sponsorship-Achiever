@@ -1,0 +1,22 @@
+Part 1 — Companies 1 to 10:
+✅ ASML — Technology · Veldhoven
+✅ Booking.com — Technology · Amsterdam
+✅ Adyen — Fintech · Amsterdam
+✅ Rabobank — Finance · Utrecht
+✅ Shell — Energy · The Hague
+✅ Unilever — FMCG · Rotterdam
+✅ TomTom — Technology · Amsterdam
+✅ ING — Finance · Amsterdam
+✅ Philips — Tech & Healthcare · Eindhoven
+✅ Amazon Netherlands — Tech & Logistics · The Hague
+Part 2 — Companies 11 to 20:
+✅ Heineken — Food & Beverage · Amsterdam
+✅ NXP Semiconductors — Technology · Eindhoven
+✅ Wolters Kluwer — Tech & Legal · Alphen aan den Rijn
+✅ NN Group — Insurance & Finance · The Hague
+✅ Randstad — HR & Staffing · Diemen
+✅ ABN AMRO — Finance & Banking · Amsterdam
+✅ Coolblue — E-commerce · Rotterdam
+✅ KPMG Netherlands — Consulting · Amsterdam
+✅ Capgemini — IT Consulting · Utrecht
+✅ Accenture Netherlands — Consulting · Amsterdam
